@@ -1,2 +1,2 @@
-hi luna and jen
+hello
 this line should create a merge conflict
