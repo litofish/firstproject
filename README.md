@@ -1,5 +1,5 @@
 # Decrypted By Us - Git Branching Tutorial!
-By the lovely Luna & Jen
+Decrypted by the lovely Luna & Jen
 
 We will cover how to:
 - make your own branch
